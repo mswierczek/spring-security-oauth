@@ -67,6 +67,7 @@
 
 		<!-- util -->
 		<commons-io.version>2.6</commons-io.version>
+		<commons-validator.version>1.6</commons-validator.version>
 
 		<!-- Maven plugins -->
 		<maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
